@@ -4,9 +4,14 @@ This package provides the necessary details that would allow anyone to reproduce
 University of Luxembourg by Sena Kılınç under the supervision of [Dr. Alfredo Capozucca](https://acapozucca.github.io/).
 
 #Tools
-This project has been performed and executed using macOS. Anyone who wishes to change the target device should change the "targetDeviceID" configuration in ![alt text](/ExpectedOutput/result.png "Testing Result")
+This project has been performed and executed using macOS. Anyone who wishes to change the target device should change the "targetDeviceID" configuration in 
 
 # How to use?
 
+#Expected Result
+Please use the following command to run the test:
+```dart test_driver/app_test.dart --feature="counter_button.feature"```
+The output should look like this:
+![alt text](/ExpectedOutput/result.png "Testing Result")
 # License
 [MIT](/LICENSE)
