@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "de26b5619de8337e815a4c666c92b7d5cb0d60e56688a823844155f302d8efca"
+build_start_time: [1670583366, 797870159]
+build_end_time: [1670583370, 707597017]
+inputs:
+  "/Users/senakilinc/FlutterGherkinUAT/my_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1670583351, 864580154]
+  "/Users/senakilinc/FlutterGherkinUAT/my_app/macos/Runner/AppDelegate.swift": [1666773166, 0]
+  "/Users/senakilinc/FlutterGherkinUAT/my_app/macos/Runner/MainFlutterWindow.swift": [1666773166, 0]

@@ -1,0 +1,94 @@
+2022-11-09 01:15:08.613354 >>> {command: get_health}
+2022-11-09 01:15:08.735763 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 02:24:06.675846 >>> {command: get_health}
+2022-11-09 02:24:06.964502 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 02:24:06.977172 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-11-09 02:24:06.989881 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 16:06:18.462253 >>> {command: get_health}
+2022-11-09 16:06:18.717326 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 16:06:18.730092 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-11-09 16:06:18.742487 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 16:44:04.353980 >>> {command: get_health}
+2022-11-09 16:44:04.623851 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 16:44:04.636029 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-11-09 16:44:04.649095 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 16:47:55.586284 >>> {command: get_health}
+2022-11-09 16:47:55.722447 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 16:47:55.735153 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-11-09 16:47:55.759788 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 16:50:15.664591 >>> {command: get_health}
+2022-11-09 16:50:15.766362 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 16:50:15.779143 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-11-09 16:50:15.792869 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 16:50:15.800446 >>> {command: tap, timeout: 30000, finderType: ByTooltipMessage, text: Increment}
+2022-11-09 16:50:15.881575 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 16:50:15.882747 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-11-09 16:50:16.106680 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 17:00:46.946752 >>> {command: get_health}
+2022-11-09 17:00:47.224153 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 17:00:47.237304 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-11-09 17:00:47.250515 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 17:00:47.258198 >>> {command: tap, timeout: 30000, finderType: ByTooltipMessage, text: Increment}
+2022-11-09 17:00:47.344833 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-09 17:00:47.345848 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-11-09 17:00:47.571318 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 01:44:00.296935 >>> {command: get_health}
+2022-11-14 01:44:00.585337 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 01:44:00.597315 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-11-14 01:44:00.609976 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 01:44:00.617334 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: counter-val-key, keyValueType: String}
+2022-11-14 01:44:00.661324 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 01:44:00.662340 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-11-14 01:44:00.666083 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 01:44:00.667587 >>> {command: tap, timeout: 30000, finderType: ByTooltipMessage, text: Increment}
+2022-11-14 01:44:00.711335 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 01:44:00.711691 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-11-14 01:44:01.032067 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 01:44:01.033456 >>> {command: tap, timeout: 30000, finderType: ByValueKey, keyValueString: counter-val-key, keyValueType: String}
+2022-11-14 01:44:01.038290 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 01:44:01.038606 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-11-14 01:44:01.040354 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 02:21:54.367978 >>> {command: get_health}
+2022-11-14 02:21:54.650133 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 02:21:54.662792 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-11-14 02:21:54.676299 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 02:21:54.683823 >>> {command: tap, timeout: 30000, finderType: ByTooltipMessage, text: Increment}
+2022-11-14 02:21:54.769204 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-14 02:21:54.770363 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-11-14 02:21:55.006621 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-28 12:29:51.449228 >>> {command: get_health}
+2022-11-28 12:29:51.718257 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-28 12:29:51.730688 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-11-28 12:29:51.744356 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-28 12:30:55.466440 >>> {command: get_health}
+2022-11-28 12:30:55.578655 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-11-28 12:30:55.590992 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-11-28 12:30:55.603786 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-28 12:30:55.611030 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-11-28 12:30:55.614938 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-28 12:30:55.615798 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: counter-val-key, keyValueType: String}
+2022-11-28 12:30:55.621459 <<< {isError: false, response: {text: 0}, type: _extensionType, method: ext.flutter.driver}
+2022-11-28 12:30:55.623432 >>> {command: tap, timeout: 30000, finderType: ByTooltipMessage, text: Increment}
+2022-11-28 12:30:55.707350 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-28 12:30:55.707780 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-11-28 12:30:55.940712 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-28 12:30:55.941626 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-11-28 12:30:55.944003 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-11-28 12:30:55.944404 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: counter-val-key, keyValueType: String}
+2022-11-28 12:30:55.947116 <<< {isError: false, response: {text: 1}, type: _extensionType, method: ext.flutter.driver}
+2022-12-09 11:56:12.047040 >>> {command: get_health}
+2022-12-09 11:56:12.317692 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-12-09 11:56:12.329802 >>> {command: waitFor, timeout: 1000, finderType: ByText, text: You have pushed the button this many times:}
+2022-12-09 11:56:12.342407 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-12-09 11:56:12.349756 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-12-09 11:56:12.353537 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-12-09 11:56:12.354358 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: counter-val-key, keyValueType: String}
+2022-12-09 11:56:12.360213 <<< {isError: false, response: {text: 0}, type: _extensionType, method: ext.flutter.driver}
+2022-12-09 11:56:12.362102 >>> {command: tap, timeout: 30000, finderType: ByTooltipMessage, text: Increment}
+2022-12-09 11:56:12.445450 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-12-09 11:56:12.445969 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-12-09 11:56:12.676766 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-12-09 11:56:12.677710 >>> {command: waitForCondition, timeout: 30000, conditionName: NoTransientCallbacksCondition}
+2022-12-09 11:56:12.679793 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-12-09 11:56:12.680083 >>> {command: get_text, timeout: 30000, finderType: ByValueKey, keyValueString: counter-val-key, keyValueType: String}
+2022-12-09 11:56:12.682315 <<< {isError: false, response: {text: 1}, type: _extensionType, method: ext.flutter.driver}
