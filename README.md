@@ -17,10 +17,32 @@ This project has been performed and executed using macOS. Anyone who wishes to c
 * After all the dependencies are installed, you can run the project by executing the following command:
 
 ```dart test_driver/app_test.dart --feature="counter_button.feature"```
+
 # Expected Result
 
 The output should look like this:
 
 ![alt text](/ExpectedOutput/result.png "Testing Result")
+
+# Directory Structure
+
+lib: This directory contains the source code for the demo counter button app that was used to demonstrate the UAT testing framework.
+
+test_driver: This directory contains the test files for the demo counter button app and the entry point for running the tests using the flutter_driver package.
+
+test_driver/features: This directory contains the feature files for the Gherkin BDD testing framework.
+test_driver/steps: This directory contains the step definitions for the feature files in the features directory.
+
+# Key Dependencies
+Flutter: The project is built using the Flutter framework.
+
+flutter_gherkin: This package is used to implement the Gherkin BDD testing framework.
+
+flutter_driver: This package is used to run the tests on the Flutter app.
+
+# Acknowledgments
+
+The tutorial used in this project can be found at this link: https://stacksecrets.com/flutter/bdd-with-gherkin-in-flutter.
+
 # License
 [MIT](/LICENSE)
