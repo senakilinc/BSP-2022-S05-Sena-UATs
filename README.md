@@ -4,8 +4,7 @@ This package provides the necessary details that would allow anyone to reproduce
 University of Luxembourg by Sena Kılınç under the supervision of [Dr. Alfredo Capozucca](https://acapozucca.github.io/).
 
 # Tools
-This project has been performed and executed using macOS. Anyone who wishes to change the target device should change the "targetDeviceID" configuration in 
-
+This project has been performed and executed using macOS. Anyone who wishes to change the target device should change the "targetDeviceID" configuration in [app_test.dart](https://github.com/senakilinc/BSP-2022-S05-Sena-UATs/blob/main/test_driver/app_test.dart) file.
 # How to use?
 
 # Expected Result
