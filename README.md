@@ -15,7 +15,7 @@ This project has been performed and executed using macOS. Anyone who wishes to c
 * Inside the root directory of the project, you will find the pubspec.yaml file. flutter\_gherkin and flutter\_driver dependencies are already added.
 
 * After all the dependencies are installed, you can run the project by executing the following command:
-* 
+
 ```dart test_driver/app_test.dart --feature="counter_button.feature"```
 # Expected Result
 
